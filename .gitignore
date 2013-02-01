@@ -9,6 +9,8 @@
 # Microsoft Visual Studio 2010.
 #
  
+# Don't include NuGet Packages (Ref: http://coderjournal.com/2011/12/cleaning-up-your-git-repository-for-nuget-1-6/ )
+packages/
 #
 # Windows and Mac OS X Temp Cache Files
 #
